@@ -1,0 +1,1 @@
+<div id="menu"><a href="./">Accueil</a> - <a href="modeles/deco.php">Deco</a></div>
